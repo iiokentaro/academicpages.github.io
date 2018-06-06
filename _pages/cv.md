@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Bachelor of Human Sciences, Osaka University, 2015
+* Master of Engineering in Civil Engineering, Texas A&M University, 2019 (expected)
 
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Testing University
+  * Duties included: Running Tests
+  * Supervisor: Professor Travis
 
 * Fall 2015: Research Assistant
   * Github University
@@ -56,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 49 different slack teams
