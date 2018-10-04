@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Test Account"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "College Station, TX"
   employer         :
