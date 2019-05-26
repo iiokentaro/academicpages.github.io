@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome to my website!!!"
+excerpt: "Welcome to my website!!!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is Dr. Test Account's home on the web!
+K... I don't really know how to use GitHub...
 
-Lorem ipsum.
+I'll learn this step by step.
