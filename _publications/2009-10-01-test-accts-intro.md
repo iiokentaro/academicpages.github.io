@@ -1,15 +1,15 @@
 ---
-title: "Test Accounts: An Introduction"
+title: "Bid-Based Priority Signal Control in A Connected Environment: Concept"
 collection: publications
-permalink: /publication/test-accts-intro
+permalink: 
 excerpt: 'This paper is about testing.'
 date: 2009-10-01
-venue: 'Testing Studies'
+venue: 'Transportation Research Record'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Iio, K., Zhang, Y., and Quadrifoglio, L. (in press). &quot;Bid-Based Priority Signal Control in A Connected Environment: Concept.&quot; <i>Transportation Research Record</i>.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about priority signal control based on bids from vehicles.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here]()
 
-Recommended citation: Iio, K. (2015). "Test Accounts: An Introduction." <i>Testing Studies</i>. 1(1).
+Recommended citation: Iio, K., Zhang, Y., and Quadrifoglio, L. (in press). &quot;Bid-Based Priority Signal Control in A Connected Environment: Concept.&quot; <i>Transportation Research Record</i>.
