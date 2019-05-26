@@ -12,28 +12,21 @@ redirect_from:
 Education
 ======
 * Bachelor of Human Sciences, Osaka University, 2015
-* Master of Engineering in Civil Engineering, Texas A&M University, 2019 (expected)
+* Master of Science in Civil Engineering, Texas A&M University, 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Testing University
-  * Duties included: Running Tests
-  * Supervisor: Professor Travis
+* October 2012 - May 2013: Language Discussion Leader
+  * The Bush School of Government and Public Service
+  * Duties included: Teaching
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* GIS
+* Visualization
+  * Vector
+  * Raster
 
 Publications
 ======
@@ -55,4 +48,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 49 different slack teams
+* BigEvent
