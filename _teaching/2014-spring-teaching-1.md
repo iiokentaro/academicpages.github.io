@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Language Discussion Leader"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "graduate course"
+permalink: 
+venue: "The Bush School of Government and Public Service"
+date: 2012-10-10
+location: "College Station, TX"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I organized weekly Japanese language sessions for graduate students.
 
 Heading 1
 ======
