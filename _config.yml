@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Test Account"
+title                    : "Iio Kentaro"
 title_separator          : "-"
-name                     : &name "Dr. Test Account"
+name                     : &name "Iio Kentaro"
 description              : &description "OU-TAMU"
 url                      : https://iiokentaro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Test Account"
+  name             : "Iio Kentaro"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Trying to make the world a happier place through transportation."
   location         : "College Station, TX"
   employer         :
-  googlescholar    : "http://scholar.google.com/this-is-a-test"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "iiokentaro"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
