@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-K... I don't really know how to use GitHub...
-
-I'll learn this step by step.
+I don't really know how to use GitHub, but try it out step by step...
