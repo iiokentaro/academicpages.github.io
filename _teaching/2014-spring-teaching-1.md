@@ -1,7 +1,7 @@
 ---
 title: "Language Discussion Leader"
 collection: teaching
-type: "graduate course"
+type: "Speaking Practice"
 permalink: 
 venue: "The Bush School of Government and Public Service"
 date: 2012-10-10
